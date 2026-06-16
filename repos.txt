@@ -1,0 +1,4 @@
+# Target repositories — one owner/repo per line.
+# Lines starting with # and blank lines are ignored.
+
+leonardojgv/zumox
